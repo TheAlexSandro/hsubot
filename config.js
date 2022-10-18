@@ -2,8 +2,8 @@ const plugin = require('./plugins.conf')
 
 module.exports = {
   // di dapat dari https://my.telegram.org/
-  API_ID: 123456,
-  API_HASH: 'copasDiSini',
+  API_ID: 19443896,
+  API_HASH: '28ceca141564614d8a5e13a210913327',
 
   // aktifkan jika pakai bot API
   // jika bot API aktif, userbot otomatis OFF
@@ -14,7 +14,7 @@ module.exports = {
   // jika konek dengan nomor hp
   // pake tipe string, format internasional 628xxxxxxx
 
-  phone: '6281234567890', // ini contoh saja, ganti dengan yang sesuai
+  phone: '6285784297549', // ini contoh saja, ganti dengan yang sesuai
 
   // path TDLib
   pathTDLib: './tdlib/libtdjson.so',
