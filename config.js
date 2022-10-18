@@ -32,7 +32,7 @@ module.exports = {
     // jika skipme false, dan admin true.. id bot harus dimasukkan di sini. 
     // Amannya sih masukkan saja, kawatir berubah pikiran trus lupa ngisinya
     id: [
-      213567634, // <- ganti ini ke ID kamu
+      1434949478, // <- ganti ini ke ID kamu
     ],
   },
 
